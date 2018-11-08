@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "reactauth-20181108121431-authRole",
+            "UnauthRoleArn": "arn:aws:iam::230265482284:role/reactauth-20181108121431-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::230265482284:role/reactauth-20181108121431-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "reactauth-20181108121431-deployment",
+            "UnauthRoleName": "reactauth-20181108121431-unauthRole",
+            "StackName": "reactauth-20181108121431",
+            "StackId": "arn:aws:cloudformation:us-east-1:230265482284:stack/reactauth-20181108121431/c25ea290-e379-11e8-8e40-500c219b8099"
+        }
+    }
+}
